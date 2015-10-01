@@ -158,6 +158,16 @@
 			]
 		},
 		{
+			"name": "Ecto Latest Migration",
+			"details": "https://github.com/facto/Ecto-Latest-Migration",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
 			"name": "eCSStractor",
 			"details": "https://github.com/hudochenkov/ecsstractor",
 			"releases": [
